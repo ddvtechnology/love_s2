@@ -103,9 +103,10 @@ export default function SecretMessage({ onClose }: SecretMessageProps) {
                   }}
                   className="text-center"
                 >
-                  <h2 className="text-4xl font-bold from-pink-500 to-rose-600 text-transparent bg-clip-text mb-6">
+                  <h2 className="text-4xl font-bold text-pink-500 mb-6">
                     Te amo vida!
                   </h2>
+
 
                   <motion.div
                     animate={{
