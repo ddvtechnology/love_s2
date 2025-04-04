@@ -17,13 +17,13 @@ export default function FinalMessage({ onRevealSecret }: FinalMessageProps) {
   const [isTypingComplete, setIsTypingComplete] = useState(false)
   const fullMessage = `Meu amor,
 
-Cada momento ao seu lado é uma página nova em nossa história de amor. Desde o primeiro dia em que nos conhecemos, você trouxe luz e alegria para minha vida de maneiras que eu nunca imaginei possíveis.
+Cada instante ao seu lado é uma nova página na linda história que estamos construindo juntos. Desde o primeiro dia em que nossos caminhos se cruzaram, você trouxe luz, alegria e um significado especial para minha vida de formas que eu nunca imaginei.
 
-Obrigado por compartilhar esta jornada comigo. Por todos os sorrisos, aventuras e momentos tranquilos que vivemos juntos. Cada um deles é precioso para mim.
+Sou imensamente grato por cada sorriso compartilhado, cada aventura vivida e pelos momentos de paz que encontramos um no outro. Cada memória que criamos é um tesouro que guardo com carinho.
 
-Você é minha melhor amiga, minha confidente, meu amor. E eu prometo estar ao seu lado em cada passo do caminho, enquanto continuamos a escrever nossa história juntos.
+Você é minha melhor amiga, minha confidente, meu grande amor. E prometo caminhar ao seu lado, de mãos dadas, em cada capítulo que ainda escreveremos juntos.
 
-Com todo meu amor,`
+Com todo o meu amor,`
 
   useEffect(() => {
     let index = 0
